@@ -1,0 +1,10 @@
+C:\Users\Compumax\OneDrive\Escritorio\Git\BDMercamax\BDMercamax\bin\Debug\BDMercamax.dacpac
+C:\Users\Compumax\OneDrive\Escritorio\Git\BDMercamax\BDMercamax\bin\Debug\BDMercamax.dll
+C:\Users\Compumax\OneDrive\Escritorio\Git\BDMercamax\BDMercamax\bin\Debug\BDMercamax.pdb
+C:\Users\Compumax\OneDrive\Escritorio\Git\BDMercamax\BDMercamax\obj\Debug\BDMercamax.sqlproj.AssemblyReference.cache
+C:\Users\Compumax\OneDrive\Escritorio\Git\BDMercamax\BDMercamax\obj\Debug\Model.xml
+C:\Users\Compumax\OneDrive\Escritorio\Git\BDMercamax\BDMercamax\obj\Debug\refactor.xml
+C:\Users\Compumax\OneDrive\Escritorio\Git\BDMercamax\BDMercamax\obj\Debug\postdeploy.sql
+C:\Users\Compumax\OneDrive\Escritorio\Git\BDMercamax\BDMercamax\obj\Debug\predeploy.sql
+C:\Users\Compumax\OneDrive\Escritorio\Git\BDMercamax\BDMercamax\obj\Debug\BDMercamax.dll
+C:\Users\Compumax\OneDrive\Escritorio\Git\BDMercamax\BDMercamax\obj\Debug\BDMercamax.pdb
